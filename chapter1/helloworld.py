@@ -6,3 +6,4 @@ if apple > 30:
   print('부자')
 else:
   print('거지')
+print('fetch하면 어케ㅔ됨')
